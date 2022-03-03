@@ -125,7 +125,7 @@ Partial Class frmDDLApp
         Me.tbxInput.Location = New System.Drawing.Point(277, 107)
         Me.tbxInput.Name = "tbxInput"
         Me.tbxInput.Size = New System.Drawing.Size(58, 23)
-        Me.tbxInput.TabIndex = 8
+        Me.tbxInput.TabIndex = 0
         Me.tbxInput.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'lblFinalCost
