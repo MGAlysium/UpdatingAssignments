@@ -1,0 +1,14 @@
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasics2012TermsApplication\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasics2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasics2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasics2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\bin\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\bin\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\bin\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.frmVB2012Terms.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\obj\Debug\PizzaSelection.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\VisualBasic2012TermsApplication\PizzaSelection\obj\Debug\VisualBasic2012TermsApplication.vbproj.GenerateResource.Cache
