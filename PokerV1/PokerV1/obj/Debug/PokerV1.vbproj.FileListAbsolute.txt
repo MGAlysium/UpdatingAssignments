@@ -1,0 +1,11 @@
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PokerV1\bin\Debug\PokerV1.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\bin\Debug\PokerV1.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\bin\Debug\PokerV1.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\bin\Debug\PokerV1.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\bin\Debug\PokerV1.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\obj\Debug\PokerV1.frmPoker.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\obj\Debug\PokerV1.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\obj\Debug\PokerV1.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\obj\Debug\PokerV1.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\obj\Debug\PokerV1.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PokerV1\PokerV1\obj\Debug\PokerV1.pdb
