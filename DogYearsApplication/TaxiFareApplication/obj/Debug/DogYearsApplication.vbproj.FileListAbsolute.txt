@@ -1,0 +1,10 @@
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.frmDogYearsApp.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\obj\Debug\DogYearsApplication.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\DogYearsApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.pdb
