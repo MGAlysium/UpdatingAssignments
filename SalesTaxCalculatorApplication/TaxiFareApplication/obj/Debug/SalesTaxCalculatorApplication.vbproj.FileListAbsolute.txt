@@ -1,0 +1,10 @@
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\bin\Debug\TaxiFareApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.frmTaxiFareApp.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\obj\Debug\SalesTaxCalculatorApplication.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\SalesTaxCalculatorApplication\TaxiFareApplication\obj\Debug\TaxiFareApplication.pdb
