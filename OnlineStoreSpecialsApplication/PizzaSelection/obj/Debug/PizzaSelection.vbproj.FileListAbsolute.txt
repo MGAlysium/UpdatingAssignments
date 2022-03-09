@@ -1,0 +1,24 @@
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\bin\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\bin\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\bin\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\obj\Debug\PizzaSelection.frmPizzaSelection.resources
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\obj\Debug\PizzaSelection.Resources.resources
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\obj\Debug\PizzaSelection.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\PizzaSelection\obj\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\obj\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\bin\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\bin\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\bin\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\obj\Debug\PizzaSelection.frmPizzaSelection.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\obj\Debug\PizzaSelection.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\PizzaSelection\PizzaSelection\obj\Debug\PizzaSelection.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.pdb

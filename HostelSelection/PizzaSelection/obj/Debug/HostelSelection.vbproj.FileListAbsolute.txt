@@ -1,0 +1,10 @@
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\bin\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\bin\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\bin\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\obj\Debug\PizzaSelection.frmHostelSelection.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\obj\Debug\PizzaSelection.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\obj\Debug\HostelSelection.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\HostelSelection\PizzaSelection\obj\Debug\PizzaSelection.pdb

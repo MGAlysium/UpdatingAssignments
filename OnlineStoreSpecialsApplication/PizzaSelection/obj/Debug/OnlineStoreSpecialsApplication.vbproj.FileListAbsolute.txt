@@ -1,0 +1,10 @@
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\bin\Debug\PizzaSelection.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\bin\Debug\PizzaSelection.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\bin\Debug\PizzaSelection.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\bin\Debug\PizzaSelection.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.frmOnlineSpecials.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\PizzaSelection.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\OnlineStoreSpecialsApplication\PizzaSelection\obj\Debug\OnlineStoreSpecialsApplication.vbproj.GenerateResource.Cache
