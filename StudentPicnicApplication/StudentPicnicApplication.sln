@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StudentPicnicApplication", "PizzaSelection\StudentPicnicApplication.vbproj", "{4C190E78-0822-4EA7-BA09-5F46E77BC4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C190E78-0822-4EA7-BA09-5F46E77BC4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C190E78-0822-4EA7-BA09-5F46E77BC4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C190E78-0822-4EA7-BA09-5F46E77BC4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C190E78-0822-4EA7-BA09-5F46E77BC4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
