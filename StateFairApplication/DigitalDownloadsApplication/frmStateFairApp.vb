@@ -14,7 +14,10 @@
     End Sub
 
     Private Sub btnCalcCost_Click(sender As Object, e As EventArgs) Handles btnCalcCost.Click
-        Dim inVal As Double = Convert.ToDouble(tbxInput.Text)
+        Dim inVal As Double = 0
+        If tbxInput.Text <> "" Then
+            inVal = Convert.ToDouble(tbxInput.Text)
+        End If
         If inVal < 999 And inVal > 0 Then
             inVal = inVal * price
             lblFinalCost.Text = inVal.ToString("C")
@@ -24,6 +27,7 @@
         lblFinalCost.Visible = True
         btnClear.Enabled = True
         btnCalcCost.Enabled = False
+        AcceptButton = btnClear
     End Sub
 
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
@@ -33,6 +37,7 @@
         btnClear.Enabled = False
         btnCalcCost.Enabled = True
         tbxInput.Focus()
+        AcceptButton = btnCalcCost
     End Sub
 
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click

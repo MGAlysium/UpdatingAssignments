@@ -7,7 +7,10 @@
     End Sub
 
     Private Sub btnCalcCost_Click(sender As Object, e As EventArgs) Handles btnCalcCost.Click
-        Dim inVal As Double = Convert.ToDouble(txtCost.Text)
+        Dim inVal As Double = 0
+        If txtCost.Text <> "" Then
+            inVal = Convert.ToDouble(txtCost.Text)
+        End If
         If inVal < 999 And inVal > 0 Then
             Dim tax As Double = inVal * taxPerc
             Dim outVal As Double = inVal + tax
@@ -19,6 +22,7 @@
         lblFinalCost.Visible = True
         btnClear.Enabled = True
         btnCalcCost.Enabled = False
+        AcceptButton = btnClear
     End Sub
 
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
@@ -29,6 +33,7 @@
         btnClear.Enabled = False
         btnCalcCost.Enabled = True
         txtName.Focus()
+        AcceptButton = btnCalcCost
     End Sub
 
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click

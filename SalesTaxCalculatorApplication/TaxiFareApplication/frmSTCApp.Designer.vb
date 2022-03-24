@@ -46,9 +46,9 @@ Partial Class frmTaxiFareApp
         Me.lblTitle.ForeColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.lblTitle.Location = New System.Drawing.Point(87, 13)
         Me.lblTitle.Name = "lblTitle"
-        Me.lblTitle.Size = New System.Drawing.Size(215, 25)
+        Me.lblTitle.Size = New System.Drawing.Size(216, 25)
         Me.lblTitle.TabIndex = 0
-        Me.lblTitle.Text = "WalMart Sale's Tax"
+        Me.lblTitle.Text = "Walmart Sale's Tax"
         '
         'lblDirections
         '
@@ -70,7 +70,7 @@ Partial Class frmTaxiFareApp
         Me.picTaxi.Image = Global.TaxiFareApplication.My.Resources.Resources.Walmart
         Me.picTaxi.Location = New System.Drawing.Point(-4, 214)
         Me.picTaxi.Name = "picTaxi"
-        Me.picTaxi.Size = New System.Drawing.Size(396, 165)
+        Me.picTaxi.Size = New System.Drawing.Size(396, 182)
         Me.picTaxi.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.picTaxi.TabIndex = 2
         Me.picTaxi.TabStop = False
@@ -104,6 +104,7 @@ Partial Class frmTaxiFareApp
         Me.lblFinalCost.TabIndex = 4
         Me.lblFinalCost.Text = "Item: Name     Cost: $XX.XX" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Tax: $XX.XX     Final: $XX.XX"
         Me.lblFinalCost.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        Me.lblFinalCost.Visible = False
         '
         'lblTicketCost
         '
