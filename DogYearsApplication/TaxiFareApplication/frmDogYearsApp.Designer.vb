@@ -98,11 +98,11 @@ Partial Class frmDogYearsApp
         Me.lblFinalCost.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.lblFinalCost.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblFinalCost.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.lblFinalCost.Location = New System.Drawing.Point(185, 91)
+        Me.lblFinalCost.Location = New System.Drawing.Point(196, 91)
         Me.lblFinalCost.Name = "lblFinalCost"
-        Me.lblFinalCost.Size = New System.Drawing.Size(184, 48)
+        Me.lblFinalCost.Size = New System.Drawing.Size(162, 48)
         Me.lblFinalCost.TabIndex = 4
-        Me.lblFinalCost.Text = "Your Dog Is 7 In Dog Years" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "And 49 In People Years"
+        Me.lblFinalCost.Text = "Your Dog Is 7 Years Old" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "And 49 In People Years"
         Me.lblFinalCost.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.lblFinalCost.Visible = False
         '

@@ -42,7 +42,7 @@ Partial Class frmDDLApp
         '
         Me.lblTitle.AutoSize = True
         Me.lblTitle.Font = New System.Drawing.Font("Tahoma", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblTitle.Location = New System.Drawing.Point(131, 13)
+        Me.lblTitle.Location = New System.Drawing.Point(89, 13)
         Me.lblTitle.Name = "lblTitle"
         Me.lblTitle.Size = New System.Drawing.Size(211, 25)
         Me.lblTitle.TabIndex = 0
@@ -52,11 +52,11 @@ Partial Class frmDDLApp
         '
         Me.lbl99Cents.AutoSize = True
         Me.lbl99Cents.ForeColor = System.Drawing.Color.Teal
-        Me.lbl99Cents.Location = New System.Drawing.Point(150, 46)
+        Me.lbl99Cents.Location = New System.Drawing.Point(103, 46)
         Me.lbl99Cents.Name = "lbl99Cents"
-        Me.lbl99Cents.Size = New System.Drawing.Size(88, 19)
+        Me.lbl99Cents.Size = New System.Drawing.Size(182, 19)
         Me.lbl99Cents.TabIndex = 1
-        Me.lbl99Cents.Text = "Test Text"
+        Me.lbl99Cents.Text = "$19.99 per Download"
         '
         'lblPrompt
         '
@@ -66,9 +66,9 @@ Partial Class frmDDLApp
         Me.lblPrompt.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.lblPrompt.Location = New System.Drawing.Point(31, 110)
         Me.lblPrompt.Name = "lblPrompt"
-        Me.lblPrompt.Size = New System.Drawing.Size(207, 16)
+        Me.lblPrompt.Size = New System.Drawing.Size(167, 16)
         Me.lblPrompt.TabIndex = 2
-        Me.lblPrompt.Text = "Number of Songs to Download:"
+        Me.lblPrompt.Text = "# of Songs to Download:"
         '
         'lblOohFancy
         '
@@ -76,7 +76,7 @@ Partial Class frmDDLApp
         Me.lblOohFancy.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.lblOohFancy.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold)
         Me.lblOohFancy.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.lblOohFancy.Location = New System.Drawing.Point(69, 142)
+        Me.lblOohFancy.Location = New System.Drawing.Point(29, 142)
         Me.lblOohFancy.Name = "lblOohFancy"
         Me.lblOohFancy.Size = New System.Drawing.Size(169, 16)
         Me.lblOohFancy.TabIndex = 3
@@ -89,9 +89,9 @@ Partial Class frmDDLApp
         Me.btnCalcCost.ForeColor = System.Drawing.Color.Teal
         Me.btnCalcCost.Location = New System.Drawing.Point(12, 187)
         Me.btnCalcCost.Name = "btnCalcCost"
-        Me.btnCalcCost.Size = New System.Drawing.Size(137, 35)
+        Me.btnCalcCost.Size = New System.Drawing.Size(117, 35)
         Me.btnCalcCost.TabIndex = 5
-        Me.btnCalcCost.Text = "Calculate Cost"
+        Me.btnCalcCost.Text = "Display Cost"
         Me.btnCalcCost.UseVisualStyleBackColor = False
         '
         'btnClear
@@ -100,9 +100,9 @@ Partial Class frmDDLApp
         Me.btnClear.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnClear.ForeColor = System.Drawing.Color.Teal
-        Me.btnClear.Location = New System.Drawing.Point(168, 187)
+        Me.btnClear.Location = New System.Drawing.Point(136, 187)
         Me.btnClear.Name = "btnClear"
-        Me.btnClear.Size = New System.Drawing.Size(137, 35)
+        Me.btnClear.Size = New System.Drawing.Size(117, 35)
         Me.btnClear.TabIndex = 6
         Me.btnClear.Text = "Clear"
         Me.btnClear.UseVisualStyleBackColor = False
@@ -112,9 +112,9 @@ Partial Class frmDDLApp
         Me.btnExit.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.btnExit.ForeColor = System.Drawing.Color.Teal
-        Me.btnExit.Location = New System.Drawing.Point(324, 187)
+        Me.btnExit.Location = New System.Drawing.Point(260, 187)
         Me.btnExit.Name = "btnExit"
-        Me.btnExit.Size = New System.Drawing.Size(137, 35)
+        Me.btnExit.Size = New System.Drawing.Size(117, 35)
         Me.btnExit.TabIndex = 7
         Me.btnExit.Text = "Exit"
         Me.btnExit.UseVisualStyleBackColor = False
@@ -122,7 +122,7 @@ Partial Class frmDDLApp
         'tbxInput
         '
         Me.tbxInput.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold)
-        Me.tbxInput.Location = New System.Drawing.Point(277, 107)
+        Me.tbxInput.Location = New System.Drawing.Point(227, 107)
         Me.tbxInput.Name = "tbxInput"
         Me.tbxInput.Size = New System.Drawing.Size(58, 23)
         Me.tbxInput.TabIndex = 0
@@ -134,7 +134,7 @@ Partial Class frmDDLApp
         Me.lblFinalCost.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.lblFinalCost.Font = New System.Drawing.Font("Tahoma", 9.75!, System.Drawing.FontStyle.Bold)
         Me.lblFinalCost.ForeColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.lblFinalCost.Location = New System.Drawing.Point(274, 142)
+        Me.lblFinalCost.Location = New System.Drawing.Point(224, 142)
         Me.lblFinalCost.Name = "lblFinalCost"
         Me.lblFinalCost.Size = New System.Drawing.Size(68, 16)
         Me.lblFinalCost.TabIndex = 9
@@ -169,7 +169,7 @@ Partial Class frmDDLApp
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Silver
         Me.CancelButton = Me.btnClear
-        Me.ClientSize = New System.Drawing.Size(473, 381)
+        Me.ClientSize = New System.Drawing.Size(389, 352)
         Me.Controls.Add(Me.picDudeJamming)
         Me.Controls.Add(Me.lblFinalCost)
         Me.Controls.Add(Me.tbxInput)
