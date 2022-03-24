@@ -102,17 +102,18 @@ Partial Class frmTaxiFareApp
         Me.lblFinalCost.Size = New System.Drawing.Size(68, 16)
         Me.lblFinalCost.TabIndex = 4
         Me.lblFinalCost.Text = "Test Text"
+        Me.lblFinalCost.Visible = False
         '
         'lblTicketCost
         '
         Me.lblTicketCost.AutoSize = True
         Me.lblTicketCost.Font = New System.Drawing.Font("Tahoma", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblTicketCost.ForeColor = System.Drawing.Color.Teal
-        Me.lblTicketCost.Location = New System.Drawing.Point(83, 44)
+        Me.lblTicketCost.Location = New System.Drawing.Point(66, 44)
         Me.lblTicketCost.Name = "lblTicketCost"
-        Me.lblTicketCost.Size = New System.Drawing.Size(222, 19)
+        Me.lblTicketCost.Size = New System.Drawing.Size(256, 19)
         Me.lblTicketCost.TabIndex = 5
-        Me.lblTicketCost.Text = "$2.25 Flat Plus $2.75/Mile"
+        Me.lblTicketCost.Text = "$2.25 Flat Fee Plus $2.75/Mile"
         '
         'btnCalcCost
         '

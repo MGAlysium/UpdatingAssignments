@@ -4,7 +4,7 @@
     Const flat As Double = 2.25
 
     Private Sub frmTaxiFareApp_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        lblTicketCost.Text = flat.ToString("C") + " Flat Plus " + price.ToString("C") + "/Mile"
+        lblTicketCost.Text = flat.ToString("C") + " Flat Fee Plus " + price.ToString("C") + "/Mile"
     End Sub
 
     Private Sub txtInput_TextChanged(sender As Object, e As EventArgs) Handles txtInput.TextChanged
@@ -15,7 +15,10 @@
     End Sub
 
     Private Sub btnCalcCost_Click(sender As Object, e As EventArgs) Handles btnCalcCost.Click
-        Dim inVal As Double = Convert.ToDouble(txtInput.Text)
+        Dim inVal As Double = 0
+        If txtInput.Text <> "" Then
+            inVal = Convert.ToDouble(txtInput.Text)
+        End If
         If inVal < 999 And inVal > 0 Then
             inVal = inVal * price + flat
             lblFinalCost.Text = inVal.ToString("C")
@@ -25,6 +28,7 @@
         lblFinalCost.Visible = True
         btnClear.Enabled = True
         btnCalcCost.Enabled = False
+        AcceptButton = btnClear
     End Sub
 
     Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
@@ -34,6 +38,7 @@
         btnClear.Enabled = False
         btnCalcCost.Enabled = True
         txtInput.Focus()
+        AcceptButton = btnCalcCost
     End Sub
 
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
